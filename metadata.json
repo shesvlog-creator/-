@@ -1,0 +1,7 @@
+{
+  "name": "Gemini English Call",
+  "description": "An application that simulates a daily English phone call with an AI tutor. It provides a new topic each day and delivers detailed feedback on your conversation, including strengths, areas for improvement, and personalized homework.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
